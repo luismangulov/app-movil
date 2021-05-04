@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Applerta</string>
+    <!-- Strings related to login -->
+    <string name="prompt_fullname">Nombre completo</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_confirm_password">Confirmar contraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="action_sign_up_short">Crear cuenta</string>
+    <string name="action_forgot_pass_short">Reestablecer contraseña</string>
+    <string name="welcome">"¡Bienvenido!"</string>
+    <string name="invalid_username">El usuario ingresado es inválido</string>
+    <string name="invalid_password">La contraseña ingresada debe ser mayor a 5 caracteres</string>
+    <string name="login_failed">"Autenticación fallida"</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="title_activity_signup">Nuevo usuario</string>
+    <string name="title_activity_forgotpassword">Reestablecer contraseña</string>
+    <string name="tab_text_1">Mis Datos</string>
+    <string name="tab_text_2">Ciudad</string>
+    <string name="tab_text_3">Alarmas</string>
+    <string name="subtab_text_1">Mis Alarmas</string>
+    <string name="subtab_text_2">Mis Confirmaciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

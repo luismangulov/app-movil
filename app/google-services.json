@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599414769621",
+    "firebase_url": "https://applerta-be32f-default-rtdb.firebaseio.com",
+    "project_id": "applerta-be32f",
+    "storage_bucket": "applerta-be32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599414769621:android:948fd94bbb2e9f4eb69f5c",
+        "android_client_info": {
+          "package_name": "com.upc.applerta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599414769621-8eu0ib6tlpl7pgnmk9hir877cd48rm7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upc.applerta",
+            "certificate_hash": "0a6de0a77402abb2c37e8bc58bc0933d4762e9b9"
+          }
+        },
+        {
+          "client_id": "599414769621-s07ao7veo8n2egpbvg52vqojconvn9cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoijlnQWC8cBsjlcFz0PmouoGYq2gRqcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599414769621-s07ao7veo8n2egpbvg52vqojconvn9cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
